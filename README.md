@@ -1,4 +1,4 @@
-# Olá, eu sou Jonas Matheus Guinami 👋
+# Olá, eu sou o Jonas Guinami 👋
 
 💼 **Tech Builder | IA, Desenvolvimento Web, Automação e Sistemas**  
 🚀 Transformando ideias complexas em projetos digitais funcionais e impactantes  
