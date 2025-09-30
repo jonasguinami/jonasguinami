@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn]([https://www.linkedin.com/in/jo-nas-matheus/](https://www.linkedin.com/in/jonas-guinami-709038241/)  
+- [LinkedIn](https://www.linkedin.com/in/jonas-guinami-709038241/)  
 - [Instagram](https://www.instagram.com/guinamijonas/)  
 - [Email](mailto:guinamijonas@email.com)  
 
