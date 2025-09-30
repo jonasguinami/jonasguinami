@@ -48,8 +48,9 @@
 ---
 
 ## 📊 Estatísticas GitHub
-![Meus stats do GitHub](https://github-readme-stats.vercel.app/api?username=Guinami&show_icons=true&theme=radical)  
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guinami&layout=compact&theme=radical)
+![Meus stats do GitHub](https://github-readme-stats.vercel.app/api?username=jonasguinami&show_icons=true&theme=radical)  
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasguinami&layout=compact&theme=radical)
+
 
 ---
 
