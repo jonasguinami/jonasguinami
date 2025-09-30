@@ -6,7 +6,7 @@
 ---
 
 ## 🔹 Minhas Especialidades
-- **Linguagens & Tecnologias:** Python, JavaScript, HTML, CSS, PHP  
+- **Linguagens & Tecnologias:** Python, JavaScript, Web, PHP, MySQL  
 - **Frameworks & Ferramentas:** React, Firebase, Node.js, Tailwind, CustomTkinter  
 - **IA & Simulações:** FreeWill (IA própria), JARVIS, Guinacoin  
 - **Web & UX/UI:** Sistemas de delivery, dashboards interativos, bibliotecas digitais  
