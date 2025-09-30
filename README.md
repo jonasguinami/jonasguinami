@@ -54,7 +54,7 @@
 ---
 
 ## ⚡ Curiosidades
-- Criei mais de 20 projetos nos últimos 6 meses, do zero, sem tutoriais  
+- Criei mais de 20 projetos nos últimos anos do zero 
 - Trabalho com IA, simulações científicas e sistemas web  
 - Sempre buscando transformar conceitos complexos em soluções práticas e visualmente impressionantes
 
