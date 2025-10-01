@@ -36,7 +36,7 @@
 - Envio programado de mensagens via WhatsApp  
 - Interface clara e fácil de configurar  
 
-*(Mais projetos disponíveis no meu GitHub)*
+*(Mais projetos disponíveis no meu GitHub e Portfólio)*
 
 ---
 
