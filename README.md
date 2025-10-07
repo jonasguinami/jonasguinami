@@ -8,7 +8,7 @@
 ## 🔹 Minhas Especialidades
 - **Linguagens & Tecnologias:** Python, Web, PHP, MySQL  
 - **Frameworks & Ferramentas:** React, Firebase, Node.js, Tailwind, CustomTkinter  
-- **IA & Simulações:** FreeWill (IA própria), JARVIS, Guinacoin  
+- **IA & Simulações:** FreeWill (AI própria), JARVIS, Guinacoin  
 - **Web & UX/UI:** Sistemas de delivery, dashboards interativos, bibliotecas digitais  
 - **Automação & Produtividade:** ZapGo (disparador WhatsApp), sistemas de controle financeiro e educacionais  
 
@@ -24,7 +24,7 @@
 - Plataforma estilo Netflix para livros digitais  
 - Recursos sociais: favoritos, histórico de leitura e interação entre usuários  
 
-### **FreeWill IA**
+### **FreeWill AI**
 - IA personalizada rodando localmente com interface amigável  
 - Treinável e expansível para diversas aplicações  
 
@@ -56,6 +56,6 @@
 
 ## ⚡ Curiosidades
 - Criei mais de 20 projetos nos últimos anos do zero 
-- Trabalho com IA, simulações científicas e sistemas web  
+- Trabalho com AI, sistemas web e simulações científicas
 - Sempre buscando transformar conceitos complexos em soluções práticas e visualmente impressionantes
 
