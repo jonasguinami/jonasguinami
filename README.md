@@ -1,4 +1,4 @@
-# Prazer, eu sou o Jonas Guinami! ☺️
+# Prazer, eu sou o Jonas Guinami! ️
 
 💼 **Tech Builder | IA, Desenvolvimento Web, Automação e Sistemas**  
 🚀 Transformando ideias complexas em projetos digitais funcionais e impactantes  
