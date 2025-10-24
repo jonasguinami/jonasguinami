@@ -20,9 +20,9 @@
 - Dashboard completo para PDV, gerenciamento de vendas e inventário  
 - Interface responsiva, intuitiva e moderna  
 
-### **Biblioflix – Biblioteca Digital**
-- Plataforma estilo Netflix para livros digitais  
-- Recursos sociais: favoritos, histórico de leitura e interação entre usuários  
+### **JuriFlix – Biblioteca Digital Juridica**
+- Plataforma estilo Netflix para livros digitais da jurisdição brasileira
+- Recursos sociais: favoritos 
 
 ### **FreeWill AI**
 - IA personalizada rodando localmente com interface amigável  
@@ -31,6 +31,10 @@
 ### **Guimica – Tabela Periódica Interativa**
 - Experimente combinar elementos e gerar moléculas  
 - Drag & drop com feedback visual em tempo real  
+
+### **GeneratorKey – Gerador e cofre de senhas**
+- Gerador de senhas com diversas funcionalidades  
+- Salvamento no cofre de sua preferência
 
 ### **ZapGo – Disparador Automático**
 - Envio programado de mensagens via WhatsApp  
