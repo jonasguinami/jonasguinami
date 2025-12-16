@@ -59,7 +59,7 @@
 ---
 
 ## ⚡ Curiosidades
-- Criei mais de 20 projetos neste ano do zero 
+- Criei mais de 30 projetos neste ano partindo do zero 
 - Trabalho com AI, sistemas web e simulações científicas
 - Sempre buscando transformar conceitos complexos em soluções práticas e visualmente impressionantes
 
