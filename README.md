@@ -6,10 +6,10 @@
 ---
 
 ## 🔹 Minhas Especialidades
-- **Linguagens & Tecnologias:** Python, Web, PHP, PostgreSQL, Flask, MySQL  
-- **Frameworks & Ferramentas:** Cloudflare, React, Firebase, Node.js, CustomTkinter  
-- **IA & Simulações:** FreeWill (AI própria), JARVIS, Guinacoin (Projeto próprio)  
-- **Web & UX/UI:** Sistemas de delivery, dashboards interativos, bibliotecas digitais  
+- **Linguagens & Tecnologias:** Web, Python, DataBases, Large Language Model
+- **Frameworks & Ferramentas:** Cloudflare, React, Node.js, CustomTkinter  
+- **IA & Simulações:** FreeWill (AI com modelo próprio), JARVIS, Guinacoin (Projeto de minha autoria)  
+- **Web & UX/UI:** Sistemas de delivery, dashboards interativos, bibliotecas digitais, Blogs  
 - **Automação & Produtividade:** ZapGo (disparador WhatsApp), sistemas de controle financeiro e educacionais  
 
 ---
