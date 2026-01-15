@@ -1,49 +1,84 @@
-# [SYSTEM_LOG]: JONAS GUINAMI // ARCHITECT & AI RESEARCHER
+# [SYSTEM_LOG] — JONAS GUINAMI  
+## Architect & AI Researcher
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonasguinami&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jonas Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasguinami&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jonasguinami&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    alt="GitHub Statistics — Jonas Guinami"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasguinami&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages — Jonas Guinami"
+  />
 </div>
 
 ---
 
-### 📂 EXEC ./CORE_COMPETENCIES.sh
-- **Artificial Intelligence:** Fine-tuning de LLMs, treinamento de modelos (35M+ parâmetros), bases ptwiki-latest.
-- **Backend Architecture:** Flask, SQLite, Cloudflare Workers, Automação de Infraestrutura.
-- **Frontend Engineering:** Design Systems (IBM Carbon), React, UI/UX orientada a performance e i18n.
-- **Systems & Low-level:** Pesquisa em Kernel, C/C++ (Learning), Blockchain & Smart Contracts.
+## CORE_COMPETENCIES
+
+- **Artificial Intelligence**
+  - Fine-tuning de LLMs
+  - Treinamento de modelos (35M+ parâmetros)
+  - Construção de bases customizadas (ptwiki-latest, RAG, datasets proprietários)
+
+- **Backend Architecture**
+  - Flask, SQLite
+  - Cloudflare Workers
+  - Automação de infraestrutura e pipelines
+
+- **Frontend Engineering**
+  - Design Systems (IBM Carbon)
+  - React
+  - UI/UX orientada a performance, acessibilidade e i18n
+
+- **Systems & Low-level Research**
+  - Pesquisa em Kernel e sistemas operacionais
+  - C / C++ (em aprofundamento)
+  - Blockchain e Smart Contracts
 
 ---
 
-### 🧪 FEATURED_RESEARCH_LOGS
+## FEATURED_RESEARCH_LOGS
 
-#### 🤖 FreeWill AI
-> Pesquisa em modelos de linguagem locais. Implementação de interface proprietária para fine-tuning e expansão de conhecimento via bases personalizadas RAG e treinamento direto.
+### FreeWill AI
+Pesquisa aplicada em modelos de linguagem locais.  
+Desenvolvimento de interface proprietária para fine-tuning, expansão de conhecimento por meio de RAG e treinamento direto com bases customizadas.
 
-#### ⛓️ Guinacoin
-> Arquitetura experimental de ativos digitais. Exploração de conceitos de blockchain, criptografia e sistemas de consenso descentralizados.
+### Guinacoin
+Arquitetura experimental de ativos digitais.  
+Exploração prática de blockchain, criptografia aplicada e mecanismos de consenso descentralizado.
 
-#### 🥘 Pedeaki (SaaS)
-> Sistema Full Stack de alta performance para PDV e cardápios digitais. Foco em arquitetura de dados escalável e interface reativa sob demanda.
+### Pedeaki (SaaS)
+Sistema Full Stack de alta performance para PDV e cardápios digitais.  
+Ênfase em arquitetura de dados escalável, baixa latência e interfaces reativas sob demanda.
 
 ---
 
-### ⚙️ CURRENT_STACK.json
+## CURRENT_STACK
+
 ```json
 {
   "languages": ["Python", "JavaScript", "C", "Java", "SQL"],
   "frameworks": ["Flask", "React", "Node.js", "CustomTkinter"],
   "infrastructure": ["Cloudflare", "Linux", "Git", "SQLite"],
-  "ai_research": ["Hugging Face", "Ollama", "Fine-tuning", "Prompt Engineering"]
+  "ai_research": [
+    "Hugging Face",
+    "Ollama",
+    "Fine-tuning",
+    "Prompt Engineering"
+  ]
 }
-🛰️ NETWORK_CONNECT
-Terminal/Portfolio: jonasguinami.github.io/portfolio
 
-LinkedIn: in/jonas-guinami
+NETWORK_CONNECT
+
+Portfolio / Terminal: https://jonasguinami.github.io/portfolio
+
+LinkedIn: https://www.linkedin.com/in/jonas-guinami
 
 Email: guinamijonas@gmail.com
 
-🕯️ SYSTEM_QUOTE
-"Transforming complex entropy into functional digital architectures."
+SYSTEM_QUOTE
 
-<div align="center"> <p><i>STATUS: SYSTEM_ONLINE // 2004_JG</i></p> </div>
+“Transforming complex entropy into functional digital architectures.”
+
+<div align="center"> <p><i>STATUS: SYSTEM_ONLINE // JG_2004</i></p> </div> ```
