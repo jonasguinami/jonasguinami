@@ -1,65 +1,45 @@
-# Prazer, eu sou o Jonas Guinami! ️
+# [SYSTEM_LOG]: JONAS GUINAMI // ARCHITECT & AI RESEARCHER
 
-💼 **Tech Builder | IA, Desenvolvimento Web, Automação e Sistemas**  
-🚀 Transformando ideias complexas em projetos digitais funcionais e impactantes  
-
----
-
-## 🔹 Minhas Especialidades
-- **Linguagens & Tecnologias:** Web, Python, DataBases, Large Language Model
-- **Frameworks & Ferramentas:** Cloudflare, React, Node.js, CustomTkinter  
-- **IA & Simulações:** FreeWill (AI com modelo próprio), JARVIS, Guinacoin (Projeto de minha autoria)  
-- **Web & UX/UI:** Sistemas de delivery, dashboards interativos, bibliotecas digitais, Blogs  
-- **Automação & Produtividade:** ZapGo (disparador WhatsApp), sistemas de controle financeiro e educacionais  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonasguinami&show_icons=true&theme=ibm_carbon&hide_border=true&count_private=true" alt="Jonas Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasguinami&layout=compact&theme=ibm_carbon&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
-## 🌟 Projetos Selecionados
-
-### **Pedeaki – Sistema de Cardápio Online**
-- Dashboard completo para PDV, gerenciamento de vendas e inventário  
-- Interface responsiva, intuitiva e moderna  
-
-### **JuriFlix – Biblioteca Digital Juridica**
-- Plataforma estilo Netflix para livros digitais da jurisdição brasileira
-- Recursos sociais: favoritos 
-
-### **FreeWill AI**
-- IA personalizada rodando localmente com interface amigável  
-- Treinável e expansível para diversas aplicações  
-
-### **Guimica – Tabela Periódica Interativa**
-- Experimente combinar elementos e gerar moléculas  
-- Drag & drop com feedback visual em tempo real  
-
-### **GeneratorKey – Gerador e cofre de senhas**
-- Gerador de senhas com diversas funcionalidades  
-- Salvamento no cofre de sua preferência
-
-### **ZapGo – Disparador Automático**
-- Envio programado de mensagens via WhatsApp  
-- Interface clara e fácil de configurar  
-
-*(Mais projetos disponíveis no meu GitHub e Portfólio)*
+### 📂 EXEC ./CORE_COMPETENCIES.sh
+- **AI Systems:** Fine-tuning de LLMs, treinamento de modelos próprios (35M+ parâmetros), integrações via Hugging Face.
+- **Backend Architecture:** Flask, SQLite, Cloudflare Workers, Automação de Infraestrutura.
+- **Frontend Systems:** Design Systems (IBM Carbon), React, UI/UX orientada a performance.
+- **Future Research:** Low-level programming (C/C++), Kernel development, Blockchain consensus.
 
 ---
 
-## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/jonas-guinami-709038241/)  
-- [Instagram](https://www.instagram.com/guinamijonas/)  
-- [Email](mailto:guinamijonas@email.com)  
+### 🧪 FEATURED_RESEARCH_LOGS
+
+#### 🤖 FreeWill AI
+> Pesquisa em modelos de linguagem locais. Implementação de interface proprietária para fine-tuning e expansão de conhecimento via bases personalizadas (Wikipedia-latest).
+
+#### ⛓️ Guinacoin
+> Arquitetura experimental de ativos digitais. Exploração de conceitos de blockchain, criptografia e descentralização de dados.
+
+#### 🥘 Pedeaki (SaaS)
+> Sistema Full Stack de alta performance para PDV. Foco em arquitetura de dados escalável e interface reativa.
 
 ---
 
-## 📊 Estatísticas GitHub
-![Meus stats do GitHub](https://github-readme-stats.vercel.app/api?username=jonasguinami&show_icons=true&theme=radical)  
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasguinami&layout=compact&theme=radical)
+### ⚙️ CURRENT_STACK.json
+```json
+{
+  "languages": ["Python", "JavaScript", "C", "Java", "SQL"],
+  "frameworks": ["Flask", "React", "Node.js", "CustomTkinter"],
+  "infrastructure": ["Cloudflare", "Linux", "Git", "SQLite"],
+  "ai_tools": ["Hugging Face", "Ollama", "PyTorch", "Prompt Engineering"]
+}
+🛰️ NETWORK_CONNECT
+Terminal: jonasguinami.dev
 
+LinkedIn: in/jonas-guinami
 
----
-
-## ⚡ Curiosidades
-- Criei mais de 30 projetos neste ano partindo do zero 
-- Trabalho com AI, sistemas web e simulações científicas
-- Sempre buscando transformar conceitos complexos em soluções práticas e visualmente impressionantes
+Email: guinamijonas@gmail.com
 
