@@ -1,17 +1,6 @@
 # [SYSTEM_LOG] — JONAS GUINAMI  
 ## Architect & AI Researcher
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jonasguinami&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    alt="GitHub Statistics — Jonas Guinami"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasguinami&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages — Jonas Guinami"
-  />
-</div>
-
 ---
 
 ## CORE_COMPETENCIES
@@ -68,9 +57,7 @@ Sistema Full Stack de alta performance para PDV e cardápios digitais.
     "Prompt Engineering"
   ]
 }
-
 NETWORK_CONNECT
-
 Portfolio / Terminal: https://jonasguinami.github.io/portfolio
 
 LinkedIn: https://www.linkedin.com/in/jonas-guinami
@@ -78,7 +65,6 @@ LinkedIn: https://www.linkedin.com/in/jonas-guinami
 Email: guinamijonas@gmail.com
 
 SYSTEM_QUOTE
-
 “Transforming complex entropy into functional digital architectures.”
 
 <div align="center"> <p><i>STATUS: SYSTEM_ONLINE // JG_2004</i></p> </div> ```
