@@ -1,83 +1,50 @@
-# [SYSTEM_LOG] — JONAS GUINAMI
-## Architect & AI Researcher
----
-## 🚀 FEATURED_PROJECT: GuinaOS – Conceptual Encrypted OS & Virtual Machine
-**Top priority showcase: Built from scratch in pure Python**  
-- Custom Von Neumann architecture VM with proprietary 8-bit-ish ISA  
-- Kernel próprio com shell reativo (comandos: importar, executar, sonar)  
-- Encrypted Virtual File System (VFS) com XOR determinístico + seed 2026  
-- Linguagem de máquina própria: **Ghinamys** (.ghina → .es encrypted binary)  
-- Web-based interface via FastAPI + WebSockets (terminal reativo no browser)  
-- Camadas isoladas: Crypto Core → VFS → CPU → Kernel → Web Bridge  
+# Jonas Guinami
+### Research & Software Architecture
 
-> Um sistema operacional conceitual completo rodando no browser, com criptografia nativa e execução de binários customizados.  
-
-Repo: https://github.com/jonasguinami/GuinaOS  
-**Status:** SYSTEM_BOOT_SUCCESS // Virtual Machine ONLINE
+Engenheiro de software com foco em sistemas de baixo nível, arquitetura de máquinas virtuais e inteligência artificial. Dedicado a construir sistemas robustos do zero — do kernel à interface.
 
 ---
-## CORE_COMPETENCIES
-- **Artificial Intelligence**  
-  - Fine-tuning de LLMs  
-  - Treinamento de modelos (35M+ parâmetros)  
-  - Construção de bases customizadas (ptwiki-latest, RAG, datasets proprietários)  
 
-- **Backend Architecture**  
-  - Flask, SQLite  
-  - Cloudflare Workers  
-  - Automação de infraestrutura e pipelines  
+## 🛠 Featured Research & Systems
 
-- **Frontend Engineering**  
-  - Design Systems (IBM Carbon)  
-  - React  
-  - UI/UX orientada a performance, acessibilidade e i18n  
+### [GuinaOS](https://github.com/jonasguinami/GuinaOS)
+**Conceptual OS & Custom Virtual Machine**
+Uma implementação completa de uma VM baseada na arquitetura Von Neumann em Python puro.
+- **Internal Stack:** ISA proprietária de 8-bits, compilador Ghinamys e VFS (Virtual File System).
+- **Security:** Kernel com shell reativo e criptografia XOR determinística nativa.
+- **Interface:** Terminal em tempo real via WebSockets e FastAPI.
 
-- **Systems & Low-level Research**  
-  - Pesquisa em Kernel e sistemas operacionais  
-  - C / C++ (em aprofundamento)  
-  - Blockchain e Smart Contracts  
-  - Virtualização & Emulação de hardware (GuinaOS)
+### [FreeWill AI](https://github.com/jonasguinami/FreeWillAI)
+**Local LLM Fine-tuning & RAG**
+Pesquisa focada na autonomia de modelos de linguagem locais.
+- Desenvolvimento de pipelines de fine-tuning e expansão de conhecimento via RAG.
+- Curadoria de datasets customizados (35M+ parâmetros) para contextos específicos.
 
----
-## FEATURED_RESEARCH_LOGS
-### GuinaOS (Current Flagship)
-VM + SO conceitual com ISA proprietária, kernel shell, VFS criptografado e compilador para Ghinamys. Integração web via WebSockets.
+### [Guinacoin](https://github.com/jonasguinami/Guinacoin)
+**Distributed Ledger Technology**
+Exploração prática de protocolos de consenso e estruturas de dados de blockchain.
+- Implementação de algoritmos de hashing e arquitetura de ativos digitais descentralizados.
 
-### FreeWill AI
-Pesquisa aplicada em modelos de linguagem locais.  
-Desenvolvimento de interface proprietária para fine-tuning, expansão de conhecimento por meio de RAG e treinamento direto com bases customizadas.
-
-### Guinacoin
-Arquitetura experimental de ativos digitais.  
-Exploração prática de blockchain, criptografia aplicada e mecanismos de consenso descentralizado.
-
-### Pedeaki (SaaS)
-Sistema Full Stack de alta performance para PDV e cardápios digitais.  
-Ênfase em arquitetura de dados escalável, baixa latência e interfaces reativas sob demanda.
+### [PedeAki](https://github.com/jonasguinami/PedeAki)
+**High-Performance SaaS**
+Plataforma Full Stack para gestão comercial (PDV/KDS).
+- Arquitetura orientada a eventos, baixa latência e foco em escalabilidade de dados.
 
 ---
-## CURRENT_STACK
-```json
-{
-  "languages": ["Python", "JavaScript", "C", "Java", "SQL"],
-  "frameworks": ["Flask", "React", "Node.js", "CustomTkinter", "FastAPI"],
-  "infrastructure": ["Cloudflare", "Linux", "Git", "SQLite"],
-  "ai_research": [
-    "Hugging Face",
-    "Ollama",
-    "Fine-tuning",
-    "Prompt Engineering"
-  ],
-  "systems": ["Virtual Machines", "Custom ISA", "Kernel Design", "Low-level Encryption"]
-}
 
-NETWORK_CONNECT
-Portfolio / Terminal: https://jonasguinami.github.io/portfolio
-LinkedIn: https://www.linkedin.com/in/jonas-guinami
-Email: guinamijonas@gmail.com
-SYSTEM_QUOTE
-“Transforming complex entropy into functional digital architectures.”
-  
-  STATUS: SYSTEM_ONLINE // JG_2004  
+## 💻 Tech Stack
 
-```
+- **Systems:** C, C++, Python, Assembly Research.
+- **Backend:** Flask, FastAPI, Cloudflare Workers, SQLite.
+- **Frontend:** React, Design Systems (IBM Carbon), UI/UX Performance.
+- **AI/ML:** Fine-tuning, RAG, Training Pipelines.
+
+---
+
+## 📈 Stats & Logs
+- **Current Focus:** Otimização de Kernels e Smart Contracts.
+- **Academic:** Ciência da Computação @ Uninter.
+- **Core Concept:** "Everything should be built from scratch at least once to be truly understood."
+
+---
+[LinkedIn](https://www.linkedin.com/in/jonasguinami) • [Portfolio](https://jonasguinami.com) • [Email](mailto:seu-email@provedor.com)
