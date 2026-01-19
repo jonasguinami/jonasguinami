@@ -14,7 +14,7 @@ Uma implementação completa de uma VM baseada na arquitetura Von Neumann em Pyt
 - **Security:** Kernel com shell reativo e criptografia XOR determinística nativa.
 - **Interface:** Terminal em tempo real via WebSockets e FastAPI.
 
-### [FreeWill AI](https://github.com/jonasguinami/FreeWillAI)
+### [FreeWill AI](https://jonasguinami.github.io/FreeWill/)
 **Local LLM Fine-tuning & RAG**
 Pesquisa focada na autonomia de modelos de linguagem locais.
 - Desenvolvimento de pipelines de fine-tuning e expansão de conhecimento via RAG.
