@@ -1,11 +1,11 @@
 # Jonas Guinami
 ### Research & Software Architecture
 
-Engenheiro de software com foco em sistemas de baixo nível, arquitetura de máquinas virtuais e inteligência artificial. Dedicado a construir sistemas robustos do zero — do kernel à interface.
+Engenheiro de software com foco em sistemas de baixo nível, arquitetura de máquinas virtuais e inteligência artificial. Dedicado a construir sistemas robustos do zero: do kernel à interface.
 
 ---
 
-## 🛠 Featured Research & Systems
+## Featured Research & Systems
 
 ### [GuinaOS](https://github.com/jonasguinami/GuinaOS)
 **Conceptual OS & Custom Virtual Machine**
@@ -32,7 +32,7 @@ Plataforma Full Stack para gestão comercial (PDV/KDS).
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Systems:** C, C++, Python, Assembly Research.
 - **Backend:** Flask, FastAPI, Cloudflare Workers, SQLite.
